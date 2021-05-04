@@ -41,7 +41,7 @@ section{
 </head>
 <body>
 <header>
-    <h1>logotipo</h1>
+    <h1>Logotipo</h1>
 </header>
 
 <?php
